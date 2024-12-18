@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(){
-    printf ("Trung Dep Trai");
-    the luon
+    printf ("Trung rat Dep Trai");
+    
 }
